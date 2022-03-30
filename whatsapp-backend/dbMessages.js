@@ -7,4 +7,5 @@ import mongoose from "mongoose";
      received: Boolean,
  });
 
- export default mongoose.model('messageContent', whatsappSchema);
+ // collection
+ export default mongoose.model("messagecontents", whatsappSchema);
