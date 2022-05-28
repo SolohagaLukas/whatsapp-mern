@@ -18,4 +18,7 @@
 <p>GET: http://localhost:9000/messages/sync</p>
 <p>POST: http://localhost:9000/messages/new</p>
 
-<h3>Me falta node_modules para usar npm start</h3>
+<h3>Me falta node_modules para usar npm start, esto ocurre debido a git.ignore</h3>
+<p>Deberia eliminar el git.ignore y poner el proyecto en privado. Sin embargo, no encontré el
+proyecto original en windows. Por lo tanto, voy a necesitar install npm y configurar 
+la conexión a la base de datos.</p>
