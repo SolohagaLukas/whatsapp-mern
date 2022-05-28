@@ -17,3 +17,5 @@
 <h4>MongoDB routes</h4>
 <p>GET: http://localhost:9000/messages/sync</p>
 <p>POST: http://localhost:9000/messages/new</p>
+
+<h3>Me falta node_modules para usar npm start</h3>
